@@ -40,8 +40,8 @@ AI-Powered: Uses TensorFlow.js MobileNet model for feature extraction.
 Hosted Online: Live deployment on Vercel.
 
 
-
-*********** Technical Requirements & Implementation*********
+---
+ Technical Requirements & Implementation
  
 The project fulfills all the technical requirements outlined in the assessment brief.
 Image Upload: Implemented using the react-dropzone library, allowing users to easily upload images through drag-and-drop or by selecting a file manually.
@@ -52,7 +52,8 @@ Mobile Responsive Design: The interface is fully responsive and adapts seamlessl
 Error Handling & Loading States: Wrapped in try/catch blocks to ensure smooth error recovery. Real-time progress tracking and loading indicators enhance user experience during model processing.
 Deployment: The final version is deployed on Vercel, ensuring reliable cloud hosting and continuous integration with GitHub for automatic updates after each push.
 
-***************Tech Stack Used)************
+---
+Tech Stack Used)
 
 Frontend Framework: React (Vite)
 Machine Learning Library: TensorFlow.js
@@ -62,8 +63,8 @@ Styling: Inline CSS
 Image Upload: react-dropzone
 Hosting Platform: Vercel
 
-
-*********************Project Structure***********
+---
+Project Structure
 
 
 ```
@@ -85,7 +86,8 @@ Hosting Platform: Vercel
 │ └── index.css # Global CSS reset and layout
 └── package.json
 ```
-************* How the Application Works************
+---
+How the Application Works
 
 1. User uploads an image using drag & drop or click.
 2. The MobileNet model (TensorFlow.js) generates an embedding vector for the uploaded image.
@@ -95,8 +97,8 @@ Hosting Platform: Vercel
 6. The top 10 visually similar products are displayed in a grid with their scores.
 
 
-
-************** How to Run Locally *****************
+---
+ How to Run Locally 
 
 Make sure you have **Node.js (v16+)** installed.
 
@@ -111,12 +113,12 @@ npm install
 # Run locally
 npm run dev
 
-
+---
 ##  Live Deployment
 
 Deployed using **Vercel**
 🔗 **Live URL:** [https://visual-product-matcher-a8ko8ov5y-sindhu3.vercel.app/](https://visual-product-matcher-a8ko8ov5y-sindhu3.vercel.app/)
-
+---
 **Deployment Process:**
 
 1. Connected GitHub repo to Vercel.
@@ -125,8 +127,8 @@ Deployed using **Vercel**
 4. Output directory: `dist`
 5. Clicked **Deploy**, and within 2 minutes, the project went live.
 
-
-************* Project Summary ***************
+---
+ Project Summary 
 
  Visual Product Matcher is an AI-powered web application that identifies visually similar products from an uploaded image. The app leverages **TensorFlow.js** with the **MobileNet model** to generate image feature embeddings directly in the browser. These embeddings are compared against a dataset of product images using **cosine similarity**, allowing the system to find and display top visually similar items.
 
