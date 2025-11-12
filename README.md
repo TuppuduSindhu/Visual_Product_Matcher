@@ -4,7 +4,8 @@ Visual Product Matcher** is a web application that helps users find visually sim
 It uses Machine Learning (TensorFlow.js + MobileNet) to generate image embeddings, compares them using cosine similarity, and displays the most similar products with scores.  
 The entire app runs  in the browser, making it lightweight, fast, and privacy-friendly — no backend server is required.
 ## 🚀 Live Demo
-🔗 [Visual Product Matcher (Live on Vercel)](https://visual-product-matcher-jet-five.vercel.app/)
+[Visual Product Matcher (Live on Vercel)](https://sindhu-visualmatch.vercel.app/)
+
 
 
 ## 🖼️ Screenshots
