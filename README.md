@@ -27,7 +27,7 @@ The entire app runs  in the browser, making it lightweight, fast, and privacy-fr
 
 ## 🎥 Demo Video
 
-[**Watch Demo Video (.mp4)**](https://github.com/TuppuduSindhu/Visual_Product_Matcher/blob/main/visual_product_matcher_output_demo.mp4?raw=true)
+[**▶️ Watch Demo Video (.mp4)**](https://raw.githubusercontent.com/TuppuduSindhu/Visual_Product_Matcher/main/visual_product_matcher_output_demo.mp4)
 
 🎯 Features Implemented
 
