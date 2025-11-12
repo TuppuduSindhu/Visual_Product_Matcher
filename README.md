@@ -128,11 +128,11 @@ Deployed using **Vercel**
 
 ************* Project Summary ***************
 
-==>> Visual Product Matcher is an AI-powered web application that identifies visually similar products from an uploaded image. The app leverages **TensorFlow.js** with the **MobileNet model** to generate image feature embeddings directly in the browser. These embeddings are compared against a dataset of product images using **cosine similarity**, allowing the system to find and display top visually similar items.
+ Visual Product Matcher is an AI-powered web application that identifies visually similar products from an uploaded image. The app leverages **TensorFlow.js** with the **MobileNet model** to generate image feature embeddings directly in the browser. These embeddings are compared against a dataset of product images using **cosine similarity**, allowing the system to find and display top visually similar items.
 
-==>> The frontend is built with **React (Vite)** and provides a clean drag-and-drop interface, real-time progress bar, and a responsive design. The project operates completely on the client side — no backend required — ensuring privacy, speed, and simplicity.
+ The frontend is built with **React (Vite)** and provides a clean drag-and-drop interface, real-time progress bar, and a responsive design. The project operates completely on the client side — no backend required — ensuring privacy, speed, and simplicity.
 
-==>> The top matching products are displayed with similarity scores, providing an intuitive visual search experience. The app is deployed to **Vercel** and the source code is available on GitHub. This project demonstrates practical integration of machine learning with modern frontend development and is suitable as a visual search prototype for e-commerce.
+ The top matching products are displayed with similarity scores, providing an intuitive visual search experience. The app is deployed to **Vercel** and the source code is available on GitHub. This project demonstrates practical integration of machine learning with modern frontend development and is suitable as a visual search prototype for e-commerce.
 
 
 
