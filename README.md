@@ -119,7 +119,7 @@ npm run dev
 ##  Live Deployment
 
 Deployed using **Vercel**
-🔗 **Live URL:** [https://visual-product-matcher-a8ko8ov5y-sindhu3.vercel.app/](https://visual-product-matcher-a8ko8ov5y-sindhu3.vercel.app/)
+🔗 **Live URL:** https://sindhu-visualmatch.vercel.app/
 ---
 **Deployment Process:**
 
