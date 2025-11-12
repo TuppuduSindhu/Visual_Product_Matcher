@@ -42,19 +42,23 @@ Hosting Platform: Vercel
 
 
 
-src/
-├── components/
-│   ├── Upload.jsx      # Handles drag-and-drop image upload
-│   └── Results.jsx     # Displays uploaded image + matching results
-├── utils/
-│   └── embeddings.js   # ML model loading, embedding extraction, similarity computation
-├── App.jsx             # Main app logic (UI + TensorFlow integration)
-├── main.jsx            # React entry point
-└── index.css           # Global styling and layout reset
-public/
-├── bg.jpeg             # Background image
-└── products/           # 50 product images (dataset)
-
+/visual-product-matcher
+├── public/
+│ ├── bg.jpeg # App background image
+│ └── products/ # Product dataset (50 sample images)
+│ ├── product1.jpeg
+│ ├── product2.jpeg
+│ └── ...
+├── src/
+│ ├── components/
+│ │ ├── Upload.jsx # Handles image upload (drag/drop)
+│ │ └── Results.jsx # Displays uploaded image + results grid
+│ ├── utils/
+│ │ └── embeddings.js # ML functions (load model, get embeddings, cosine similarity)
+│ ├── App.jsx # Main app logic and UI layout
+│ ├── main.jsx # React app entry point
+│ └── index.css # Global CSS reset and layout
+└── package.json
 
 ************* How the Application Works************
 
@@ -128,5 +132,3 @@ Sindhu Tuppudu
 
 
 
-Would you like me to add the **“image URL upload feature”** too (so users can either upload a file *or* paste an image link)?
-That’s a 5-minute addition and makes your app *exactly match the assessment requirements*.
