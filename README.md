@@ -6,6 +6,7 @@ The entire app runs  in the browser, making it lightweight, fast, and privacy-fr
 ## 🚀 Live Demo
 🔗 [Visual Product Matcher (Live on Vercel)](https://visual-product-matcher-jet-five.vercel.app/)
 
+
 ## 🖼️ Screenshots
 
 <p align="center">
