@@ -41,7 +41,7 @@ Hosting Platform: Vercel
 *********************Project Structure***********
 
 
-
+```
 /visual-product-matcher
 ├── public/
 │ ├── bg.jpeg # App background image
@@ -59,7 +59,7 @@ Hosting Platform: Vercel
 │ ├── main.jsx # React app entry point
 │ └── index.css # Global CSS reset and layout
 └── package.json
-
+```
 ************* How the Application Works************
 
 1. User uploads an image using drag & drop or click.
