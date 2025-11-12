@@ -5,6 +5,30 @@ It uses Machine Learning (TensorFlow.js + MobileNet) to generate image embedding
 The entire app runs  in the browser, making it lightweight, fast, and privacy-friendly — no backend server is required.
 
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="https://github.com/TuppuduSindhu/Visual_Product_Matcher/blob/main/output1.png?raw=true" width="700" alt="Screenshot 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TuppuduSindhu/Visual_Product_Matcher/blob/main/output2.png?raw=true" width="700" alt="Screenshot 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TuppuduSindhu/Visual_Product_Matcher/blob/main/output3.png?raw=true" width="700" alt="Screenshot 3">
+</p>
+
+---
+
+
+
+---
+
+## 🎥 Demo Video
+
+https://github.com/your-username/your-repo-name/blob/main/visual_product_matcher_output_demo.mp4?raw=true
+
 🎯 Features Implemented
 
 Image Upload: Users can upload an image using drag & drop or click.  
