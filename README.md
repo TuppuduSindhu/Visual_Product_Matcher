@@ -27,13 +27,7 @@ The entire app runs  in the browser, making it lightweight, fast, and privacy-fr
 
 ## 🎥 Demo Video
 
-### ▶️ Watch the working demo below:
-<p align="center">
-  <a href="https://github.com/TuppuduSindhu/Visual_Product_Matcher/blob/main/visual_product_matcher_output_demo.mp4?raw=true">
-    <img src="https://img.icons8.com/ios-filled/100/000000/play--v1.png" alt="Play Demo Video">
-  </a>
-</p>
----
+[**Watch Demo Video (.mp4)**](https://github.com/TuppuduSindhu/Visual_Product_Matcher/blob/main/visual_product_matcher_output_demo.mp4?raw=true)
 
 🎯 Features Implemented
 
